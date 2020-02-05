@@ -1,5 +1,3 @@
-``{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE)``
-
 The ChIA-DropBox2 *(cdb2)* suite
 ================================
 
