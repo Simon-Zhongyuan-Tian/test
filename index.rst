@@ -6,7 +6,7 @@ The ChIA-DropBox2 *(cdb2)* suite
     cdb2 [sub-command] [options]
 
 Sub-commands and Options of *cdb2*
-----------------------------------
+==================================
 
 ::
 
@@ -50,7 +50,7 @@ Examples of *cdb2*
     cdb2 GAM -i test.gam.bam -schr mm9.txt -f2f 8000
 
 Output of *cdb2*
-----------------
+================
 
 1 ***.pc.bgz*** and ***.pc.bgz.tbi***
 
@@ -85,13 +85,13 @@ Output of *cdb2*
         for linear fragment cluster view in Chia-View (version 1)    
 
 Statistic information
----------------------
+=====================
 
 1 ***.sta.txt***
 
 2 ***.log***
 
 QA plots
---------
+========
 
 1 ***.qaplot.png***
